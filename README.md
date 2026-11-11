@@ -100,71 +100,8 @@ Wednesday:
 - Practice: clean a CSV file
 ```
 
-## Tech stack ideas
-
-This project can be built using a combination of:
-
-- Python
-- OpenAI or other AI API
-- SQLite or JSON for storing study plans
-- Cron jobs or GitHub Actions for scheduling
-- Flask or Streamlit for a UI
-
-## Project goals
-
-This repository can evolve into:
-
-- a local Python script to generate daily study tasks
-- a web app for scheduling AI study routines
-- a study planner integrated with reminders and calendar tools
-- an AI assistant that learns your preferred study pattern
-
-## Future ideas
-
-- Add weekly review summaries
-- Track progress per topic
-- Mark lessons as completed
-- Suggest revision based on weak areas
-- Offer multiple study styles: gentle, intensive, or exam-based
-- Integrate with Google Calendar or Notion
-
-## Getting started
-
-This repository is intentionally designed as a starter project. You can begin by creating:
-
-```bash
-mkdir automating-study
-cd automating-study
-```
-
-Then add your Python scripts, AI prompt templates, and scheduling logic.
-
-## Suggested roadmap
-
-1. Build a prompt template for AI-generated study plans
-2. Save generated lessons to a file or database
-3. Add a scheduler for daily or weekly tasks
-4. Create a simple UI or CLI
-5. Add progress tracking and reminders
-6. Improve the logic to make study plans adaptive
-
-## License
-
-This project is open for learning and personal use.
-
 ## Conclusion
 
 Automating study is about removing friction from learning. Instead of manually deciding what to study each day, the system can help you stay consistent, organized, and motivated.
 
 The goal is not to replace learning — it is to make learning smarter, more consistent, and easier to maintain.
-
----
-
-If you want to turn this idea into a real working project, the next step is to build:
-
-- a prompt-based lesson generator
-- a scheduler for daily study sessions
-- a small local app or terminal tool
-- optional AI-integrated reminders
-
-This project is a practical way to combine productivity, education, and automation in one repository.
