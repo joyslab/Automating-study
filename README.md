@@ -83,7 +83,6 @@ Each lesson should include:
 
 ## Example output
 
-```text
 Monday:
 - Lesson 1: What is Data Analysis?
 - Learn the purpose and workflow of data analysis
@@ -98,7 +97,6 @@ Wednesday:
 - Lesson 3: Data Cleaning
 - Learn missing values, duplicates, and formatting
 - Practice: clean a CSV file
-```
 
 ## Conclusion
 
